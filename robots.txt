@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/dr-melasmin-calcium-stick/sitemap.xml
+Sitemap: https://dr-melasmin-calcium-stick.vercel.app/sitemap-vercel.xml
+Sitemap: https://dr-melasmin-calcium-stick.pages.dev/sitemap-cloudflare.xml
